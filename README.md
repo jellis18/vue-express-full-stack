@@ -17,6 +17,7 @@ your own `MONGO_URI`.
 Once you have that setup you should be able to run
 
 ```zsh
+npm install
 npm run dev
 ```
 
@@ -24,6 +25,7 @@ to start the backend server and then
 
 ```zsh
 cd client
+npm install
 npm run serve
 ```
 
